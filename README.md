@@ -4,3 +4,5 @@ I achieved 95.47% of accuracy on test set (MNIST dataset) on a 9-level tree afte
 
 ![alt text](https://github.com/DoMy91/DistillingNN-SDT/blob/master/imgs/test_accuracy.png)
 
+[Details](Relazione.pdf)
+
